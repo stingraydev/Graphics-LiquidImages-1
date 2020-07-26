@@ -1,0 +1,29 @@
+{
+  "name": "Graphics-LiquidImages-1",
+  "version": "1.0.0",
+  "description": "GSAP",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OWIII/Graphics-LiquidImages-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OWIII/Graphics-LiquidImages-1/issues"
+  },
+  "homepage": "https://github.com/OWIII/Graphics-LiquidImages-1#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "gsap": "^3.4.2",
+    "hover-effect": "^1.1.0",
+    "tree": "^0.1.3"
+  }
+}
