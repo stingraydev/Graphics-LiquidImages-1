@@ -22,7 +22,7 @@
     "parcel-bundler": "^1.12.4"
   },
   "dependencies": {
-    "gsap": "^3.4.2",
+    "gsap": "^3.6.0",
     "hover-effect": "^1.1.0",
     "tree": "^0.1.3"
   }
